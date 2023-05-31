@@ -1,7 +1,7 @@
 # 🤺Hi there! I'm Adam and welcome to my github🤺
 
 
-### I'm a full Stack developer from New Zealand currently living in Japan.
+## I'm a full Stack developer from New Zealand currently living in Japan.
 
 
  
