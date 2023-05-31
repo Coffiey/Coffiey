@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on : [Tokyo Traders](https://www.tokyotrader.store/)
-- 🌱 I’m currently learning : Python and C++
+- 🌱 I’m currently learning : [Docker](https://www.docker.com/)
 - 💬 Ask me about :🤺Fencing🤺
 - 📫 How to reach me: [My linkedin](https://www.linkedin.com/in/adam-burrough-2337a5265/)
 - 😄 Pronouns: he/him
@@ -22,7 +22,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
 <a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" /></a>
-<a href="https://nextjs.org/"><img align="left" alt="Next.js" width="28px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" /></a>
 <a href="https://bulma.io/"><img align="left" alt="Bulma" width="18px" src="https://iconape.com/wp-content/files/df/370667/svg/bulma-logo-icon-png-svg.png" /></a>
 <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" width="34px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" /></a>
  <a href="https://https://mui.com//" target="_blank" rel="noreferrer"> 
