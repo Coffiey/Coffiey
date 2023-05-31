@@ -1,9 +1,18 @@
 # 🤺Hi there! I'm Adam and welcome to my github🤺
 
 
-## I'm a full Stack developer from New Zealand currently living in Japan.
+
+### I'm a full Stack developer from New Zealand currently living in Japan. 
+#####  I specialize in React and Node, 
 
 
+- 🔭 I’m currently working on : [Tokyo Traders](https://www.tokyotrader.store/)
+- 🌱 I’m currently learning : Python and C++
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about :🤺Fencing🤺
+- 📫 How to reach me: [My linkedin](https://www.linkedin.com/in/adam-burrough-2337a5265/)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
  
 <!--
 **Coffiey/Coffiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
