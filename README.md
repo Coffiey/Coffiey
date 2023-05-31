@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on : [Tokyo Traders](https://www.tokyotrader.store/)
 - 🌱 I’m currently learning : [Docker](https://www.docker.com/)
-- 💬 Ask me about :🤺Fencing🤺
+- 💬 Ask me about :[🤺Fencing🤺](https://nexus-fencingclub.com/)
 - 📫 How to reach me: [My linkedin](https://www.linkedin.com/in/adam-burrough-2337a5265/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm really really bad at video games.
