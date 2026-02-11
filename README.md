@@ -5,9 +5,6 @@
 ### I'm a full Stack developer from New Zealand currently living in Japan. 
 #####  I specialize in React and Node, but am also proficient in python. Out side of the work life i bike, playing sport and climbing mountains.
 
-
-- 🔭 I’m currently working on : [Tokyo Traders](https://www.tokyotrader.store/)
-- 🌱 I’m currently learning : [Docker](https://www.docker.com/)
 - 💬 Ask me about :[🤺Fencing🤺](https://nexus-fencingclub.com/)
 - 📫 How to reach me: [My linkedin](https://www.linkedin.com/in/adam-burrough-2337a5265/)
 - 😄 Pronouns: he/him
