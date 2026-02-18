@@ -3,7 +3,7 @@
 
 
 ### I'm a full Stack developer from New Zealand currently living in Japan. 
-#####  I specialize in React and Node, but am also proficient in python. Out side of the work life i bike, playing sport and climbing mountains.
+#####  A passionate Engineer with experience in fast paced, flexible environments. Was involved in End to End development and deployment of multiple key Computer vision services. Designed and developed the company's landing page, client portal and data analytics portal, then controlled CI/CD pipelines and maintained code quality through rigorous unit and integration testing. Led the development of core computer vision products under tight performance constraints, resulting in a significant increase in production productivity and contributed to the expansion of new products.
 
 - 💬 Ask me about :[🤺Fencing🤺](https://nexus-fencingclub.com/)
 - 📫 How to reach me: [My linkedin](https://www.linkedin.com/in/adam-burrough-2337a5265/)
